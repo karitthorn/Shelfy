@@ -3,6 +3,18 @@
 
 > shelf it your way
 
+App for the next-gen marketing industry. Connect vendors to newcomer product creators.
+
+Let Shelfy be one of our lives. Shelf it yourselves, while Shelfy helps you solve it all
+
+We want to make an app that will be central to the marketing industry between the producers and the vendors. 
+
+With Shelfy, we connect everything together.  Solving the problems for those who don't know where to put their product on. Or one who struggling to get more customers.
+
+With our app, you can upload your products and let the AI search for the best match places that suit your product type. Then you can negotiate with those vendors. And
+
+then let them put your product on their shelves, and help you sky-rocket your sales!
+
 # See More
 
 📷[Youtube](https://www.youtube.com/watch?v=zKyOYLpdYXk)
