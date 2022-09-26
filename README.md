@@ -5,6 +5,6 @@
 
 # See More
 
-[Youtube](https://www.youtube.com/watch?v=zKyOYLpdYXk)
+📷[Youtube](https://www.youtube.com/watch?v=zKyOYLpdYXk)
 
-[Figma](https://www.figma.com/proto/0YEk6w0RZS3ae8HhXwOhYl/Untitled?node-id=22%3A29489&scaling=scale-down&page-id=0%3A1&starting-point-node-id=22%3A29489)
+📱[Figma](https://www.figma.com/proto/0YEk6w0RZS3ae8HhXwOhYl/Untitled?node-id=22%3A29489&scaling=scale-down&page-id=0%3A1&starting-point-node-id=22%3A29489)
